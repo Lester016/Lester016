@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=Lester016)
+
 ![](https://komarev.com/ghpvc/?username=Lester016)
