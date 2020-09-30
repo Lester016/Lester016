@@ -1,7 +1,8 @@
 ### Hi there, I'm Lester 👋
-##### I'm a Multidisciplinary software developer based in Manila, I have been coding for 3 years using Javascript and Python technology with various frameworks and libraries I am also a well rounded developer knowledgeable from hardware to UI design to software. I graduated in AMA Computer College with a distinct award of `Outstanding Senior Programmer`, I enjoy doing tech related works and always down to meet people who will help me grow ❤
+##### I'm a Multidisciplinary software developer based in Manila, I have been coding for 3 years using Javascript and Python technology with various frameworks and libraries I am also a well rounded developer knowledgeable from hardware to UI design to software. I graduated in AMA Computer College with a distinct award of `Outstanding Senior Programmer`, I enjoy doing tech related works and always down to meet people who will help me grow in this field❤
 
 ###### If you have any questions feel free to buy me a coffee☕.
+###### 📧:lesterdeguzman1999@gmail.com
 
 <!--
 **Lester016/Lester016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
