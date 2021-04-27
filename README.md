@@ -1,7 +1,7 @@
 ### Hi there, I'm Lester 👋
-##### I'm a Multidisciplinary software developer based in Manila, I have been coding for more than 3 years using Javascript and Python technology with various frameworks and libraries I am also a well rounded developer knowledgeable from hardware to UI design to software. I finished my Senior High in AMA Computer College with a distinct award of `Outstanding Senior Programmer`, I enjoy doing tech related works and always down to meet people who will help me grow in this field ❤
+##### I'm a Multidisciplinary software developer based in Manila, I have been coding for more than 3 years using Javascript and Python technology with various frameworks and libraries I am also a well rounded developer knowledgeable from hardware to UI design. I finished my Senior High in AMA Computer College with a distinct award of `Outstanding Senior Programmer`, I enjoy doing tech related works and always down to meet people who will help me grow in this field ❤
 
-###### If you have any questions feel free to buy me a coffee☕.
+###### If you have any concerns feel free to buy me a coffee ☕
 ###### lesterdeguzman1999@gmail.com
 
 <!--
